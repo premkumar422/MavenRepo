@@ -18,6 +18,11 @@
 
 
   </dependencies>
+  
+    <properties>
+             <failOnMissingWebXml>false</failOnMissingWebXml>
+             
+    </properties>
   <build>
     <finalName>mvnWebApp</finalName>
     <plugins>
